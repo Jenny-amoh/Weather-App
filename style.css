@@ -87,11 +87,7 @@ input::placeholder{
 p{
     color: rgb(165, 165, 165);
 }
-/* .sideIcons{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 30px;
-} */
+
 .footer{
     display: flex;
     justify-content: center;
